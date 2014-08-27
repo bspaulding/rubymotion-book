@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bubble-wrap (1.7.0)
+      bubble-wrap-http (= 1.7.0)
+    bubble-wrap-http (1.7.0)
+    rake (10.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bubble-wrap
+  rake
